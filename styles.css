@@ -1,0 +1,45 @@
+*{
+  text-align: center;
+  font-family: Sintony;
+}
+.BOOM{
+  width: 100%;
+}
+h1{
+  font-family: Rufina;
+}
+h2{
+  font-family: Rufina;
+}
+li{
+  text-decoration: none;
+  display: inline-block;
+  padding:
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.scumbag{
+  border-radius: 50%;
+}
+div{
+  padding-bottom: 10px;
+}
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+.video iframe,
+.video object,
+.video embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
